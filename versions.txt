@@ -1,3 +1,6 @@
 version [0.0.0]
 - first commit
 - first border of game
+
+version [0.0.1]
+- hello hanz testing lang po toh ma'am
