@@ -4,3 +4,6 @@ version [0.0.0]
 
 version [0.0.1]
 - hello hanz testing lang po toh ma'am
+
+version [0.0.2]
+- hi pre
