@@ -8,10 +8,13 @@ version [0.0.1]
 version [0.0.2]
 - hi pre
 
-version [0.1.2]
+version [0.1.0]
 - included movement pero sa head lang
 - game DOES NOT end kahit na bumangga sa border
 
-version [0.2.2]
+version [0.2.0]
 - spawns 1-10 food inside the grid
 - kapag gumalaw, mawawala lahat ng food (use the same else if sa main para sa food doon sa movement function)
+
+version [0.2.1]
+- inayos yung Semantic Versioning
